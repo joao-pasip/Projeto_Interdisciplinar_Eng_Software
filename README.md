@@ -21,12 +21,12 @@ O sistema permite que diferentes perfis de usuários (administradores, contadore
 
 ## Funcionalidades (Casos de Uso)
 
-### ➜ Gestão de Estoque
+### Gestão de Estoque
 - **Cadastrar Produto**
 - **Atualizar quantidade em estoque**
 - **Consultar Estoque**
 
-### ➜ Gestão Financeira
+### Gestão Financeira
 - **Cadastrar Contas a Pagar e a Receber**
 - **Consultar Contas a Pagar e a Receber**
 - **Registrar Pagamento e Recebimento**
@@ -34,13 +34,13 @@ O sistema permite que diferentes perfis de usuários (administradores, contadore
 - **Consultar Extrato Geral**
 - **Gerir Riscos Financeiros**
 
-### ➜ Gestão de Produção
+### Gestão de Produção
 - **Registrar Fabricação**
 - **Gerar Relatório de Produção**
 - **Consultar Informações de Produção**
 - **Calcular/Monitorar Custo por Lote**
 
-### ➜ Recursos Humanos e Fornecedores
+### Recursos Humanos e Fornecedores
 - **Cadastrar Funcionários**
 - **Excluir Funcionário**
 - **Cadastrar Fornecedores**
