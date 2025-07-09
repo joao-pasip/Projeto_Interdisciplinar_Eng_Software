@@ -4,13 +4,13 @@ Este projeto tem como objetivo oferecer uma solução integrada para o gerenciam
 
 ---
 
-## 🎯 Visão Geral
+## Visão Geral
 
 O sistema permite que diferentes perfis de usuários (administradores, contadores, gestores financeiros e de produção) realizem operações específicas para manter o controle eficaz das operações da fábrica.
 
 ---
 
-## 🧑‍💼 Atores do Sistema
+## Atores do Sistema
 
 - **Administrador do Sistema**
 - **Contador**
@@ -19,7 +19,7 @@ O sistema permite que diferentes perfis de usuários (administradores, contadore
 
 ---
 
-## 📌 Funcionalidades (Casos de Uso)
+## Funcionalidades (Casos de Uso)
 
 ### ➜ Gestão de Estoque
 - **Cadastrar Produto**
@@ -48,7 +48,7 @@ O sistema permite que diferentes perfis de usuários (administradores, contadore
 
 ---
 
-## ⚙️ Diagrama de Casos de Uso
+## Diagrama de Casos de Uso
 
 O sistema foi modelado em UML para evidenciar os casos de uso e a interação entre os atores e o sistema. O diagrama completo está disponível no arquivo PDF anexado ao repositório.
 
