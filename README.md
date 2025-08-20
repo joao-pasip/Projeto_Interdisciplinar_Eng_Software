@@ -45,6 +45,7 @@ O sistema permite que diferentes perfis de usuários (administradores, contadore
 - **Excluir Funcionário**
 - **Cadastrar Fornecedores**
 - **Excluir Fornecedores**
+- 
 
 ---
 
@@ -53,3 +54,7 @@ O sistema permite que diferentes perfis de usuários (administradores, contadore
 O sistema foi modelado em UML para evidenciar os casos de uso e a interação entre os atores e o sistema. O diagrama completo está disponível no arquivo PDF anexado ao repositório.
 
 ---
+
+## Links úteis
+
+- Trello [https://trello.com/b/FShLpdRY/projeto-interdisciplinar]
