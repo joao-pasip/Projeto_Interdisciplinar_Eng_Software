@@ -57,4 +57,4 @@ O sistema foi modelado em UML para evidenciar os casos de uso e a interação en
 
 ## Links úteis
 
-- Trello[https://trello.com/b/FShLpdRY/projeto-interdisciplinar]
+- Trello(https://trello.com/b/FShLpdRY/projeto-interdisciplinar)
